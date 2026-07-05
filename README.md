@@ -30,4 +30,5 @@ A dedicated repository containing clean, documented implementations of multi-thr
 ### Installation & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AryanERTash/JavaConcurrency.git](https://github.com/AryanERTash/JavaConcurrency.git)
+   git clone https://github.com/AryanERTash/JavaConcurrency.git
+   ```
